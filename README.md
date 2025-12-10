@@ -1,4 +1,13 @@
-<div align="center">
+# Clone repository
+git clone https://github.com/HKUDS/Paper2Slides.git
+cd Paper2Slides
+
+# Create and activate conda environment
+conda create -n paper2slides python=3.12 -y
+conda activate paper2slides
+
+# Install dependencies
+pip install -r requirements.txt<div align="center">
 
 <img src="assets/paper2slides_logo.png" alt="Paper2Slides Logo" width="200"/><br>
 
